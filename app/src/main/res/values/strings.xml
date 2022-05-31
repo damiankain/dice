@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Игральные кубики</string>
+    <string name="roll">Бросить</string>
+    <string name="todo">TODO</string>
+</resources>
